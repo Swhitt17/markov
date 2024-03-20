@@ -1,0 +1,11 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "node marvov exercises",
+  "main": "markov.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
